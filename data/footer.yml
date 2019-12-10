@@ -1,34 +1,32 @@
 about:
-  enabled: true
-  title: Integer vitae sed feugiat
-  text: >-
-    Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
-    interdum tempus sagittis lorem tempus.
   actions:
-    - label: Learn More
-      url: /no-sidebar
-      is_primary: false
+    - is_primary: false
       is_scrolly: false
+      label: Learn More
+      url: ''
+  enabled: true
+  text: It is public mall which helps you shop everything at one place.
+  title: ABOUT SHOPPING MALL
 contact_methods:
   enabled: true
   methods_col1:
-    - type: contact_with_text
-      title: Address
-      icon: fa-map-marker
+    - icon: fa-map-marker
       text: |-
-        Untitled Corp  
-        1234 Fictional Road  
-        Suite 5432  
-        Nashville, TN 00000
+        Down Town
+        Sault Ste Marie,
+        Postal P6A2MP
+        Ontario.
+      title: Address
+      type: contact_with_text
   methods_col2:
-    - type: contact_with_text
+    - icon: fa-phone
+      text: (416) 576-0027
       title: Phone
-      icon: fa-phone
-      text: (000) 000-0000
-    - type: contact_with_link
+      type: contact_with_text
+    - icon: fa-envelope-o
+      text: Quickmart123@gmail.com
       title: Email
-      icon: fa-envelope-o
-      text: information@untitled.tld
+      type: contact_with_link
       url: '#'
 copyright:
   enabled: true
