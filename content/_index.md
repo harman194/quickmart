@@ -7,7 +7,10 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: Lets shop with us.
+  subtitle: |-
+    Lets shop with us.
+
+    ![](/images/banner.jpg)
   title: QUICKMART
 sections:
   - component: features.html
@@ -50,6 +53,9 @@ sections:
     text: >-
       To create a fun, engaging and Eco-friendly shopping experience for
       families and children.
+
+
+      ![]()
     title: MISSION
     type: cta
 menu:
