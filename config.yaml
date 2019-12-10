@@ -24,37 +24,7 @@ menu:
       name: Made with Stackbit
       url: 'https://www.stackbit.com'
       weight: 4
-  main:
-    - identifier: normal3
-      name: No Sidebar
-      parent: layouts
-      url: /no-sidebar
-      weight: 3
-    - identifier: submenu
-      name: Submenu
-      parent: layouts
-      url: '#'
-      weight: 4
-    - identifier: normal4
-      name: Option One
-      parent: submenu
-      url: '#'
-      weight: 1
-    - identifier: normal5
-      name: Option Two
-      parent: submenu
-      url: '#'
-      weight: 2
-    - identifier: normal6
-      name: Option Three
-      parent: submenu
-      url: '#'
-      weight: 3
-    - identifier: normal7
-      name: Option Four
-      parent: submenu
-      url: '#'
-      weight: 4
+  main: []
 disableKinds:
   - RSS
   - taxonomy
