@@ -44,17 +44,13 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: How it works
-        url: /contact
+        url: ''
     component: cta.html
     section_id: cta
     text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
+      To create a fun, engaging and Eco-friendly shopping experience for
+      families and children.
+    title: MISSION
     type: cta
 menu:
   main:
