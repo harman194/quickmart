@@ -1,6 +1,9 @@
 ---
 title: VISION
 subtitle: >-
+  ![](/images/vision-image.jpg)
+
+
   To establish an Eco-friendly cultural shopping mall, which is one of its kind
   and serves the community.
 content_img:
