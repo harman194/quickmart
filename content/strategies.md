@@ -1,6 +1,20 @@
 ---
 title: STRATEGIES
-subtitle: "My strategic approach is differentiation with following factors\r\n\n\r\n\n• Distinctive competencies- I will provide the traditional products and it is a new innovation, which will assist good relationship with customers.\r\n\n\r\n\n• Product differentiation- provide unique products with advertisement which gave me competitor response and attract to people to Buy goods. For instance, in electronic appliances provide a new feature which give the result in fraction of seconds as compare to existing appliances."
+subtitle: >-
+  ![](/images/strategy.jpg)
+
+
+  My strategic approach is differentiation with following factors
+
+
+  • Distinctive competencies- I will provide the traditional products and it is
+  a new innovation, which will assist good relationship with customers.
+
+
+  • Product differentiation- provide unique products with advertisement which
+  gave me competitor response and attract to people to Buy goods. For instance,
+  in electronic appliances provide a new feature which give the result in
+  fraction of seconds as compare to existing appliances.
 content_img:
   enabled: false
   url: '#'
