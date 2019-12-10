@@ -1,10 +1,14 @@
 ---
 title: FINANCE
 subtitle: >-
+  ![](/images/finance.jpg)
+
+
   We will need 2 to 2.5 millions dollars to start this business because we will
   manage all the estimated expenses.
 content_img:
   enabled: false
+  path: /images/banks.webp
   url: '#'
 sidebar:
   enabled: false
