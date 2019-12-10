@@ -1,6 +1,9 @@
 ---
 title: MARKETING
-subtitle: Marketing
+subtitle: |-
+  Marketing
+
+  ![](/images/marketing.jpg)
 content_img:
   enabled: false
   url: '#'
