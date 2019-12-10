@@ -1,6 +1,19 @@
 ---
 title: RISK
-subtitle: "The major risks of shopping mall.\r\n\n\r\n\n• Technology\r\n\n\r\n\n• Financial\r\n\n\r\n\n• Government\r\n\n\r\n\n• Customer\r\n\n\r\n\n• Product"
+subtitle: |-
+  ![](/images/falls_risk.png)
+
+  The major risks of shopping mall.
+
+  • Technology
+
+  • Financial
+
+  • Government
+
+  • Customer
+
+  • Product
 content_img:
   enabled: false
   url: '#'
